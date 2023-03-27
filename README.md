@@ -1,1 +1,1 @@
-Skill isue
+Skill issue
